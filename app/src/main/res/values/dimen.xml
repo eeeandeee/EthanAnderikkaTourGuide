@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">19sp</dimen>
+    <dimen name="layoutMargin">5dp</dimen>
+    <dimen name="margin">9dp</dimen>
+    <dimen name="heightLayout">100dp</dimen>
+    <dimen name="nullSize">0dp</dimen>
+    <dimen name="hotelCostTS">26dp</dimen>
+
+
+</resources>
