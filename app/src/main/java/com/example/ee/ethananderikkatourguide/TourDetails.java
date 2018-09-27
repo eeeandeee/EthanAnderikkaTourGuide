@@ -1,19 +1,36 @@
 package com.example.ee.ethananderikkatourguide;
 
 public class TourDetails extends Hotels {
-    private String FName;
-    private String FLocation;
-    private int Image;
+    private int DetailOne;
+    private String DetailTwo;
+    private String DetailThree;
+    private String LastDetails;
 
-    public TourDetails (String mName, String mLocation) {
-        FName = mName;
-        FLocation = mLocation;
-        }
+    //tf-indicates tour features, and tfo indicates tour features other
 
-
-    public String getFeatureName(){
-        return FName;
+    public TourDetails(int tfImage, String tfName, String tfoCost, String tfoDetails) {
+        DetailOne = tfImage;
+        DetailTwo = tfName;
+        DetailThree = tfoCost;
+        LastDetails = tfoDetails;
     }
+
+    public int getTourFeatureImage() {
+        return DetailOne;
+    }
+
+    public String getTourFeatureName() {
+        return DetailTwo;
+    }
+
+    public String getTourFeatureCost() {
+        return DetailThree;
+    }
+
+    public String getTourFeatureOtherDetails() {
+        return LastDetails;
+    }
+
 }
 
 

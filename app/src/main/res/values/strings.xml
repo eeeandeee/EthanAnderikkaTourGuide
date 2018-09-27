@@ -1,3 +1,96 @@
 <resources>
     <string name="app_name">EthanAnderikka Tour Guide</string>
+    <string name="hotels">Hotels</string>
+    <string name="museums">Museums</string>
+    <string name="pharmacies">Pharmacy</string>
+    <string name="library">Library</string>
+    <string name="defaultText1">Hotel Name</string>
+    <string name="defaultText2">Hotel Cost</string>
+    <string name="defaultText3">Hotel Address</string>
+
+    <!-- details for pharmacies starts here-->
+    <string name="pStatus1">Online </string>
+    <string name="pStatus2">Walk-In</string>
+    <string name="pStatus3">Both</string>
+
+    <string name="pName1">Mediplus </string>
+    <string name="pName2">Alpha</string>
+    <string name="pName3">HealthPlus</string>
+    <string name="pName4">Nett</string>
+    <string name="pName5">Fasid</string>
+    <string name="pName6">MedCourt</string>
+    <string name="pName7">Drug Store</string>
+    <string name="pName8">Juli</string>
+
+    <string name="pTime1">Open: 8A.M - 8P.M </string>
+    <string name="pTime2">Open: 24Hrs, 7Days</string>
+    <string name="pTime3">Open: 8A.M - 6P.M</string>
+
+
+    <!-- details for hotels starts here-->
+    <string name="hCost1">$ 120 </string>
+    <string name="hCost2">$ 180</string>
+    <string name="hCost3">$ 200</string>
+    <string name="hCost4">$ 230</string>
+    <string name="hCost5">$ 270</string>
+    <string name="hCost6">$ 350</string>
+    <string name="hCost7">$ 480</string>
+    <string name="hCost8">$ 700</string>
+
+    <string name="hName1">Radisson Blu </string>
+    <string name="hName2">Eko Suites</string>
+    <string name="hName3">Four Points</string>
+    <string name="hName4">Golden Tulip</string>
+    <string name="hName5">Hilton</string>
+    <string name="hName6">I-Continental</string>
+    <string name="hName7">Sheraton</string>
+    <string name="hName8">Southern Sun</string>
+
+    <string name="hLoc1">Ikeja, Lagos</string>
+    <string name="hLoc2">V.Island, Lagos</string>
+    <string name="hLoc3">FESTAC, Lagos</string>
+    <string name="hLoc4">FESTAC, Lagos</string>
+    <string name="hLoc5">V.Island, Lagos</string>
+    <string name="hLoc6">V.Island, Lagos</string>
+    <string name="hLoc7">Ikeja, Lagos</string>
+    <string name="hLoc8">Lekki, Lagos</string>
+
+    <!-- details for museums starts here-->
+    <string name="mLoc1">Ikoyi, LG </string>
+    <string name="mLoc2"> Ajah, LG</string>
+    <string name="mLoc3">CMS, LG</string>
+    <string name="mLoc4">Agege, LG</string>
+    <string name="mLoc5">Ajah, LG</string>
+    <string name="mLoc6">Ikeja, LG</string>
+    <string name="mLoc7">Oshodi, LG </string>
+    <string name="mLoc8">CMS, LG</string>
+
+    <string name="mName1">Nike Art</string>
+    <string name="mName2">Red Door</string>
+    <string name="mName3">National Art</string>
+    <string name="mName4">Kalakuta</string>
+    <string name="mName5">Omenka Art</string>
+    <string name="mName6">Black Heritage</string>
+    <string name="mName7">Badagry Slave</string>
+    <string name="mName8">Alexis Art</string>
+
+    <string name="mTime1">FREE -  8A.M - 6P.M </string>
+    <string name="mTime2">$50 | 8A.M - 3P.M</string>
+    <string name="mTime3">$30 | 8A.M - 5P.M</string>
+
+    <!-- details for museums starts here-->
+    <string name="LDet1">Free WiFi, Coffee</string>
+    <string name="LDet2"> Writing Pads, WiFi</string>
+    <string name="LDet3">Open Air, Wifi</string>
+    <string name="LDet4">Open Air, Coffee</string>
+
+    <string name="LName1">UNILAG</string>
+    <string name="LName2">LeanHub</string>
+    <string name="LName3">National </string>
+    <string name="LName4">O.Zaccheus</string>
+
+
+    <string name="LLoc1">$80, Ajah </string>
+    <string name="LLoc2">$50, Ikeja</string>
+    <string name="LLoc3">$30, V.I</string>
 </resources>
